@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **venomcrane/venomcrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there! r4venn
+# 👋 Hi there! I'm r4venn
 
 ## 📚 About Me
 I am a student passionate about technology, books, and cybersecurity challenges. I love learning new things and applying my knowledge in practical ways. My interests include:
@@ -34,4 +32,4 @@ I am a student passionate about technology, books, and cybersecurity challenges.
 ---
 
 ## 🌟 Favorite Quote
-*"there is no barrier, lock or bolt that you can impose on the freedom of my mind."* – Virginia Woolf
+*"There is no barrier, lock or bolt that you can impose on the freedom of my mind."* – Virginia Woolf
