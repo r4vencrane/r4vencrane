@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 I am a student passionate about technology, books, and cybersecurity challenges. I love learning new things and applying my knowledge in practical ways. My interests include:
 
 - 🔐 Solving machines on [Hack The Box](https://app.hackthebox.com/profile/802825).
-- 📖 Reading science fiction and thought-provoking books (big fan of Cory Doctorow :computer:).
+- 📖 Reading science fiction and thought-provoking books (big fan of Cory Doctorow :computer: and Stephen King 🫀).
 - 🖥️ Developing skills in programming and cybersecurity.
+
+> Currently working on certs like CBBH 🕷️, CPTS ⚔️ among others 💻
 
 ---
 
