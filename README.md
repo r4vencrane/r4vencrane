@@ -12,4 +12,4 @@
 
 ---
 
-🚀 **Always hacking, always learning.**
+🏴‍☠️ **Always hacking, always learning.**
