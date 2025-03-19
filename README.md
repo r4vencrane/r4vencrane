@@ -3,10 +3,9 @@
 
 💀 **Focus:** Web & network pentesting, AD attacks, privilege escalation.  
 🖥️ **Platforms:** [Hack The Box](https://app.hackthebox.com/profile/802825), TryHackMe.  
-🖥️ Programming & Scripting:** Python 🐍, Bash 🖥️, PowerShell 💀
+🖥️ Programming & Scripting:** Python 🐍, Bash 🖥️, PowerShell 💀 
 🛠️ **Tools:** Burp Suite, Metasploit, SQLMap, Nmap, Hydra, NetExec.  
 ⚡ Experimenting with **new hacking techniques and exploits**.  
-
 
 📖 **CBBH 🕷️, CPTS ⚔️ in progress.**  
 
