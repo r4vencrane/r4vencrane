@@ -6,7 +6,7 @@
 🖥️ Programming & Scripting:** Python 🐍, Bash 🖥️, PowerShell 💀  
 ⚡ Experimenting with **new hacking techniques and exploits**.  
 
-📖 **CBBH 🕷️, CPTS ⚔️ in progress.**  
+**CBBH 🕷️, CPTS ⚔️ in progress.**  
 
 > *"There is no barrier, lock or bolt that you can impose on the freedom of my mind."* – Virginia Woolf  
 
