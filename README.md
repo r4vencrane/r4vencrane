@@ -22,4 +22,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,md,powershell,neovim,vscode,html,css,js,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,md,powershell,neovim,vscode,mysql)](https://skillicons.dev)
