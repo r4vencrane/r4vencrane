@@ -7,10 +7,10 @@
 
 # 👾 r4venn_ 
 
-💀 **Focus:** Web & network pentesting, AD attacks, privilege escalation.  
-🖥️ **Platforms:** [Hack The Box](https://app.hackthebox.com/profile/802825), TryHackMe.  
-🖥️ **Programming & Scripting:** Python, Bash, PowerShell  
-⚡ Experimenting with **new hacking techniques and exploits**.  
+- **Focus:** Web & network pentesting, AD attacks, privilege escalation.  
+- **Platforms:** [Hack The Box](https://app.hackthebox.com/profile/802825), TryHackMe.  
+- **Programming & Scripting:** Python, Bash, PowerShell  
+- Experimenting with **new hacking techniques and exploits**.  
 
 **CBBH 🕷️, CPTS ⚔️ in progress.**  
 
