@@ -21,7 +21,7 @@
 <br/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=HTB%20CPTS&message=82%25%20%E2%80%A2%20PENTESTING&labelColor=0a0f0a&color=77ff00&logo=hackthebox&logoColor=77ff00"/>
 <br/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&label=HTB%20CWES&message=77%25%20%E2%80%A2%20OWASP&labelColor=0a0f0a&color=77ff00&logo=hackthebox&logoColor=77ff00"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=HTB%20CWES&message=77%25%20%E2%80%A2%20WEB_APP&labelColor=0a0f0a&color=77ff00&logo=hackthebox&logoColor=77ff00"/>
 
 ---
 
