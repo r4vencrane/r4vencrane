@@ -1,25 +1,46 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-lvnp+443;listening+on+%5Bany%5D+443+...;connect+to+%5Br4venn_%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;r4venn_%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
-&nbsp;
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=27F76A&width=360&lines=%E2%96%91A%E2%96%91C%E2%96%91C%E2%96%91E%E2%96%91S%E2%96%91S%E2%96%91+%E2%96%91G%E2%96%91A%E2%96%91I%E2%96%91N%E2%96%91E%E2%96%91D%E2%96%91">
+<div align="left">
 
+# 👾 r4venn_
 
+### 💀 Offensive Security Practitioner
 
-# 👾 r4venn_ 
-
-- **Focus:** Web & network pentesting, AD attacks, privilege escalation.  
-- **Platforms:** [Hack The Box](https://app.hackthebox.com/profile/802825), TryHackMe.  
-- **Programming & Scripting:** Python, Bash, PowerShell  
-- Experimenting with **new hacking techniques and exploits**.  
-
-**CBBH 🕷️, CPTS ⚔️ in progress.**  
-
-> *"There is no barrier, lock or bolt that you can impose on the freedom of my mind."* – Virginia Woolf
+**Red Teaming** `//` **Active Directory** `//` **Network Pentest**
 
 ---
 
-🏴‍☠️ **Always hacking, always learning.**
+## 📡 Live Operations Status
+
+<a href="https://app.hackthebox.com/users/802825">
+  <img src="http://www.hackthebox.com/badge/image/802825" alt="Hack The Box Rank" />
+</a>
+<br/><br/>
+
+### ⚔️ Certification Path Status
+
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=HTB%20CJCA&message=95%25%20%E2%80%A2%20FOUNDATIONS&labelColor=0a0f0a&color=77ff00&logo=hackthebox&logoColor=77ff00"/>
+<br/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=HTB%20CPTS&message=82%25%20%E2%80%A2%20PENTESTING&labelColor=0a0f0a&color=77ff00&logo=hackthebox&logoColor=77ff00"/>
+<br/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=HTB%20CWES&message=77%25%20%E2%80%A2%20OWASP&labelColor=0a0f0a&color=77ff00&logo=hackthebox&logoColor=77ff00"/>
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,md,powershell,neovim,vscode,mysql)](https://skillicons.dev)
+### Tools
+
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=PYTHON&message=SCRIPTING&labelColor=0a0f0a&color=77ff00&logo=python&logoColor=77ff00"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=SHELL&message=BASH&labelColor=0a0f0a&color=77ff00&logo=gnu-bash&logoColor=77ff00"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=POWERVIEW&message=POWERSHELL&labelColor=0a0f0a&color=77ff00&logo=powershell&logoColor=77ff00"/>
+
+<br/>
+
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=PROXY&message=BURPSUITE&labelColor=0a0f0a&color=77ff00&logo=burpsuite&logoColor=77ff00"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=FRAMEWORK&message=METASPLOIT&labelColor=0a0f0a&color=77ff00&logo=metasploit&logoColor=77ff00"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=OS&message=KALI%20LINUX&labelColor=0a0f0a&color=77ff00&logo=kalilinux&logoColor=77ff00"/>
+
+---
+
+<br/>
+
+> *"Always hacking. Always leveling up"*
+
+</div>
