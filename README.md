@@ -47,10 +47,6 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LINKEDIN&message=BRANDON%20GACHUZ&labelColor=0a0f0a&color=77ff00&logo=linkedin&logoColor=0a0f0a"/>
 </a>
 
-<a href="https://r4vencrane.github.io" target="_blank">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&label=WEBSITE&message=PROJECTS&labelColor=0a0f0a&color=77ff00&logo=googlechrome&logoColor=0a0f0a"/>
-</a>
-
 </div>
 
 ---
