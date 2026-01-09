@@ -1,10 +1,10 @@
 <div align="left">
 
-# 🩸 r4venn_
+# 👾 r4venn_
 
- 💀 Offensive Security Practitioner
+## 💀 Offensive Security Practitioner
 
-###  **Red Teaming** `//` **Active Directory** `//` **Network Pentest** 
+####  **Red Teaming** `//` **Active Directory** `//` **Network Pentest** 
 
 ---
 
