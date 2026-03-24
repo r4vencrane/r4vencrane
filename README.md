@@ -56,5 +56,4 @@
 
 </div>
 
-<img width="1200" height="560" alt="image" src="https://github.com/user-attachments/assets/cfc0aa1e-4a9e-41d0-9afa-d182d0517df4" />
 
