@@ -57,7 +57,6 @@
 
 </div>
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/100c8fa2-7ca4-4181-85ea-aeebc58d59da" />
-
+<img width="2944" height="1372" alt="Guts_upscayl_4x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/8fda90e9-1c17-436d-9bb7-6745aa8bbffc" />
 
 
