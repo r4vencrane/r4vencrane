@@ -1,13 +1,10 @@
-
 <div align="left">
 
 # 👾 r4venn_
 
 ## 💀 Offensive Security Practitioner
 
-####  **Red Teaming** `//` **Active Directory** `//` **Network Pentest** 
-
----
+#### **Red Teaming** `//` **Active Directory** `//` **Network Pentest** ---
 
 ## 📡 Live Operations Status
 
@@ -31,21 +28,17 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=PYTHON&message=SCRIPTING&labelColor=0a0f0a&color=77ff00&logo=python&logoColor=77ff00"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=SHELL&message=BASH&labelColor=0a0f0a&color=77ff00&logo=gnu-bash&logoColor=77ff00"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=POWERVIEW&message=POWERSHELL&labelColor=0a0f0a&color=77ff00&logo=powershell&logoColor=77ff00"/>
-
 <br/>
-
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=PROXY&message=BURPSUITE&labelColor=0a0f0a&color=77ff00&logo=burpsuite&logoColor=77ff00"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=FRAMEWORK&message=METASPLOIT&labelColor=0a0f0a&color=77ff00&logo=metasploit&logoColor=77ff00"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=OS&message=KALI%20LINUX&labelColor=0a0f0a&color=77ff00&logo=kalilinux&logoColor=77ff00"/>
 
 ---
 
-<div align="left">
-
 ### 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/brandon-gachuz-6344b82b7/" target="_blank">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&label=LINKEDIN&message=BRANDON%20GACHUZ&labelColor=0a0f0a&color=77ff00&logo=linkedin&logoColor=0a0f0a"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LINKEDIN&message=BRANDON%20GACHUZ&labelColor=0a0f0a&color=77ff00&logo=linkedin&logoColor=0a0f0a"/>
 </a>
 
 </div>
@@ -53,10 +46,12 @@
 ---
 <br/>
 
+<div align="center">
+
 > *"Always hacking. Always leveling up"*
 
+<br/>
+
+<img width="100%" alt="Guts_upscayl_4x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/8fda90e9-1c17-436d-9bb7-6745aa8bbffc" />
+
 </div>
-
-<img width="2944" height="1372" alt="Guts_upscayl_4x_upscayl-standard-4x" src="https://github.com/user-attachments/assets/8fda90e9-1c17-436d-9bb7-6745aa8bbffc" />
-
-
