@@ -48,7 +48,7 @@
 
 <div align="center">
 
-> *"Always hacking. Always leveling up"*
+> *"The world breaks everyone and afterward many are strong at the broken places"*
 
 <br/>
 
