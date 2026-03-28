@@ -4,7 +4,7 @@
 
 ## 💀 Offensive Security Practitioner
 
-#### **Red Teaming** `//` **Active Directory** `//` **Network Pentest** ---
+#### **Red Teaming** `//` **Active Directory** `//` **Network Pentest** 
 
 ## 📡 Live Operations Status
 
